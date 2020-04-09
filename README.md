@@ -4,7 +4,7 @@ For more information about Jamf Connect, see https://docs.jamf.com/jamf-connect
 
 # In this Repository
 
-* Jamf Connect PPPC for Enabling FileVault on macOS 10.15 or later
+* Jamf Connect PPPC profile for Enabling FileVault on macOS 10.15 or later
 * Notify Screen Script Template
 
 ## Jamf Connect Login Configuration Profile Templates
