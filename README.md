@@ -1,3 +1,5 @@
+**Disclaimer:** This repository is no longer being updated. See https://github.com/jamf/jamfconnect for up-to-date Jamf Connect resources.
+
 # Jamf-Connect-Resources
 A repository for Jamf Connect scripts, configuration profile templates, and legacy files.
 For more information about Jamf Connect, see https://docs.jamf.com/jamf-connect
